@@ -372,3 +372,15 @@ C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\obj\Debug\net6.0\re
 C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\obj\Debug\net6.0\DemoUniversity.Test.pdb
 C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\obj\Debug\net6.0\DemoUniversity.Test.genruntimeconfig.cache
 C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\obj\Debug\net6.0\ref\DemoUniversity.Test.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\obj\Debug\net6.0\DemoUniversity.Test.sourcelink.json
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.Test\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
